@@ -12,6 +12,8 @@ Python Language Server
 
 A Python 2.7 and 3.4+ implementation of the `Language Server Protocol`_.
 
+forked from https://github.com/palantir/python-language-server
+
 Installation
 ------------
 
